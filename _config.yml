@@ -104,13 +104,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sul Jihoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "빅데이터사이언스학과/경제학과(복수)"
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "wlgns10000@naver.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
