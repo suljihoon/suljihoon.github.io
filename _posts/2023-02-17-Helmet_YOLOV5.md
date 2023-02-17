@@ -26,4 +26,3 @@ title: "YOLO V5를 이용한 개인형 이동장치 이용자 헬멧 착용 유�
 
 
 # YOLO V5 실행 CODE
-[agumentaion.md](https://github.com/suljihoon/suljihoon.github.io/files/10763961/agumentaion.md)
