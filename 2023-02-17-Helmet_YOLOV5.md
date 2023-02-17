@@ -142,24 +142,4 @@ pip install torchvision
     Installing collected packages: dataclasses, torch, torchvision
     Successfully installed dataclasses-0.8 torch-1.10.2 torchvision-0.11.3
     Note: you may need to restart the kernel to use updated packages.
-    
 
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
